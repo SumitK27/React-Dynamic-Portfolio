@@ -6,7 +6,7 @@ export default class Footer extends Component {
             var name = this.props.data.name;
             var networks = this.props.data.social.map(function (network) {
                 return (
-                    <li>
+                    <li key={network.name}>
                         <a href={network.url} key={network.name}>
                             <i
                                 className={network.className}

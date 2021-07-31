@@ -7,7 +7,10 @@ export default class Testimonial extends Component {
                 testimonials
             ) {
                 return (
-                    <div className="testimonial-slider__slide swiper-slide">
+                    <div
+                        className="testimonial-slider__slide swiper-slide"
+                        key={testimonials.user}
+                    >
                         <div className="testimonial-slider__author">
                             <img
                                 src={testimonials.image}
@@ -41,7 +44,6 @@ export default class Testimonial extends Component {
                     <div className="column">
                         <div className="swiper-container testimonial-slider">
                             <div className="swiper-wrapper">{testimonials}</div>
-
                             <div className="swiper-pagination"></div>
                         </div>
                     </div>

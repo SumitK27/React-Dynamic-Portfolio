@@ -18,7 +18,7 @@ export default class Resume extends Component {
             });
             var works = this.props.data.work.map(function (work) {
                 return (
-                    <div className="resume-block">
+                    <div className="resume-block" key={work.company}>
                         <div className="resume-block__header">
                             <h4 className="h3">{work.company}</h4>
                             <p className="resume-block__header-meta">
@@ -35,7 +35,7 @@ export default class Resume extends Component {
             });
             var educations = this.props.data.education.map(function (edu) {
                 return (
-                    <div className="resume-block">
+                    <div className="resume-block" key={edu.school}>
                         <div className="resume-block__header">
                             <h4 className="h3">{edu.school}</h4>
                             <p className="resume-block__header-meta">

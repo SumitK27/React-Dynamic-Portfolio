@@ -5,7 +5,7 @@ export default class Portfolio extends Component {
         if (this.props.data) {
             var projects = this.props.data.projects.map(function (project) {
                 return (
-                    <div className="column folio-item">
+                    <div className="column folio-item" key={project.title}>
                         <a href={project.url} className="folio-item__thumb">
                             <img
                                 src={project.image}
@@ -19,7 +19,7 @@ export default class Portfolio extends Component {
             });
             var modals = this.props.data.projects.map(function (modal) {
                 return (
-                    <div id={modal.modal} hidden>
+                    <div id={modal.modal} key={modal.title} hidden>
                         <div className="modal-popup">
                             <img src={modal.image} alt="" />
 
