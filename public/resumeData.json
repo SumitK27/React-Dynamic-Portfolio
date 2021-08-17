@@ -209,15 +209,27 @@
         "testimonials": [
             {
                 "text": "Some Random Text.",
-                "user": "John Doe",
-                "designation": "CEO, Apple",
+                "user": "Josh D",
+                "designation": "CEO, Facebook",
                 "image": "images/avatars/user-02.jpg"
             },
             {
                 "text": "Some Random Text.",
-                "user": "Steve Smith",
-                "designation": "CEO, Microsoft",
+                "user": "Edwin Diaz",
+                "designation": "CEO, Amazon",
                 "image": "images/avatars/user-03.jpg"
+            },
+            {
+                "text": "Some Random Text.",
+                "user": "John Doe",
+                "designation": "CEO, Netflix",
+                "image": "images/avatars/user-04.jpg"
+            },
+            {
+                "text": "Some Random Text.",
+                "user": "Steve Smith",
+                "designation": "CEO, Google",
+                "image": "images/avatars/user-05.jpg"
             }
         ]
     }
