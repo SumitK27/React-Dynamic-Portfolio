@@ -73,7 +73,7 @@ export default class Resume extends Component {
                     </div>
                     <div className="column large-9 tab-12">
                         <div className="resume-block">
-                            <p>Something Here.</p>
+                            <p>Programming.</p>
 
                             <ul className="skill-bars-fat">{skills}</ul>
                         </div>
