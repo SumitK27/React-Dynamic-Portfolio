@@ -23,7 +23,7 @@ export default class Contact extends Component {
                         </h4>
                     </div>
 
-                    <div className="column large-4 medium-12">
+                    <div className="column large-5 medium-12">
                         <div className="row contact-infos">
                             <div className="column large-12 medium-6 tab-12">
                                 <div className="contact-block">
