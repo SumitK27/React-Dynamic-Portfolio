@@ -4,7 +4,7 @@
         "occupation": "Web developer, programmer and designer.",
         "description": "I design and program websites and web applications of all types.",
         "image": "images/avatars/user-01.jpg",
-        "bio": "bla bla bla.",
+        "bio": "As a Web Developer, I have gained some experience and am constantly learning new things. I am currently learning and aspiring to become a Full-Stack Web Developer. In addition to Web Development, I also enjoy DBD (Discord Bot Development) and Drawing.",
         "email": "sumitkajbaje@gmail.com",
         "phone": "+91 9766355560",
         "address": {
@@ -18,12 +18,12 @@
         "social": [
             {
                 "name": "linkedin",
-                "url": "http://linkedin.com/sumit-kajbaje",
+                "url": "http://linkedin.com/in/sumit-kajbaje",
                 "className": "fab fa-linkedin"
             },
             {
                 "name": "discord",
-                "url": "http://instagram.com",
+                "url": "https://discord.com/#4939",
                 "className": "fab fa-discord"
             },
             {
@@ -33,7 +33,7 @@
             },
             {
                 "name": "telegram",
-                "url": "http://telegram.com",
+                "url": "http://t.me/SumitK_27",
                 "className": "fab fa-telegram"
             },
             {
@@ -45,11 +45,6 @@
                 "name": "facebook",
                 "url": "http://facebook.com/sumit.k.9",
                 "className": "fab fa-facebook-square"
-            },
-            {
-                "name": "google-plus",
-                "url": "http://googleplus.com",
-                "className": "fab fa-google-plus-square"
             }
         ]
     },
@@ -124,83 +119,83 @@
     "portfolio": {
         "projects": [
             {
-                "title": "Project 1",
-                "description": "Frictional Coffee site.",
-                "category": "Illustrator",
-                "tags": "Branding, Web Design",
-                "image": "images/portfolio/droplet.jpg",
-                "image2": "images/portfolio/droplet@2x.jpg",
-                "url": "http://port1.com",
+                "title": "Google Maps Clone",
+                "description": "With the easy-to-use APIs and plugins, this project will allow you to find your location, change the map style to Satellite, Streets & Navigation or Outdoors. Along with this, we will be able to search for any location (Area) and receive directions from your source to your destination point with the option to choose from Traffic, Driving, Walking, or Cycling.",
+                "category": "Web Development",
+                "tags": "API, HTML, CSS, JavaScript",
+                "image": "images/projects/google-maps-clone.png",
+                "image2": "images/projects/google-maps-clone.png",
+                "url": "https://testmycode.ga/google-maps-clone/",
                 "modal": "#modal-01"
             },
             {
-                "title": "Project 2",
-                "description": "Frictional Coffee site.",
-                "category": "Illustrator",
+                "title": "Speed Typing",
+                "description": "This simple project allows you to improve your typing speed by taking you under a timer's control. Enjoy hours of enjoyment while you improve your typing speed.",
+                "category": "Web Development",
                 "tags": "Branding, Web Design",
-                "image": "images/portfolio/fuji.jpg",
-                "image2": "images/portfolio/fuji@2x.jpg",
-                "url": "http://port1.com",
+                "image": "images/projects/speed-typing.png",
+                "image2": "images/projects/speed-typing.png",
+                "url": "https://testmycode.ga/speed-typing/",
                 "modal": "#modal-01"
             },
             {
-                "title": "Project 3",
-                "description": "Frictional Coffee site.",
-                "category": "Illustrator",
-                "tags": "Branding, Web Design",
-                "image": "images/portfolio/lamp.jpg",
-                "image2": "images/portfolio/lamp@2x.jpg",
-                "url": "http://port1.com",
+                "title": "MediCare",
+                "description": "The Web Portal I developed allows users to collect and manage a patient's data from one central location in order to predict the severity and likelihood of diseases based on our findings.",
+                "category": "Web Development",
+                "tags": "HTML, CSS, JS, Bootstrap, PHP, AJAX, MySQL",
+                "image": "images/projects/medicare.png",
+                "image2": "images/projects/medicare.png",
+                "url": "https://testmycode.ga/medicare.png",
                 "modal": "#modal-01"
             },
             {
-                "title": "Project 4",
-                "description": "Frictional Coffee site.",
-                "category": "Illustrator",
-                "tags": "Branding, Web Design",
-                "image": "images/portfolio/minimalismo.jpg",
-                "image2": "images/portfolio/minimalismo@2x.jpg",
-                "url": "http://port1.com",
+                "title": "Animato - An imaginary Food site.",
+                "description": "For responsiveness, it uses pure HTML and CSS as layouts and stylings without relying on external CSS libraries.",
+                "category": "Front-end Web Development",
+                "tags": "CSS",
+                "image": "images/projects/animato.png",
+                "image2": "images/projects/animato.png",
+                "url": "https://testmycode.ga/Animato/",
                 "modal": "#modal-01"
             },
             {
-                "title": "Project 5",
-                "description": "Frictional Coffee site.",
+                "title": "Weather App",
+                "description": "Gained an understanding of APIs and Geolocation with JavaScript.",
                 "category": "Illustrator",
-                "tags": "Branding, Web Design",
-                "image": "images/portfolio/rucksack.jpg",
-                "image2": "images/portfolio/rucksack@2x.jpg",
-                "url": "http://port1.com",
+                "tags": "API, HTML, CSS, JS",
+                "image": "images/projects/weather-app.png",
+                "image2": "images/projects/weather-app.png",
+                "url": "https://testmycode.ga/weather-app/",
                 "modal": "#modal-01"
             },
             {
-                "title": "Project 6",
+                "title": "Tribute Page",
                 "description": "Frictional Coffee site.",
-                "category": "Illustrator",
-                "tags": "Branding, Web Design",
-                "image": "images/portfolio/sanddunes.jpg",
-                "image2": "images/portfolio/sanddunes@2x.jpg",
-                "url": "http://port1.com",
+                "category": "Web Design",
+                "tags": "HTML, CSS",
+                "image": "images/projects/tribute-page.png",
+                "image2": "images/projects/tribute-page.png",
+                "url": "https://testmycode.ga/tribute-page/",
                 "modal": "#modal-01"
             },
             {
-                "title": "Project 7",
-                "description": "Frictional Coffee site.",
-                "category": "Illustrator",
-                "tags": "Branding, Web Design",
-                "image": "images/portfolio/shutterbug.jpg",
-                "image2": "images/portfolio/shutterbug@2x.jpg",
-                "url": "http://port1.com",
+                "title": "The Perfect Cup",
+                "description": "As I learned Web Development, I created it using Backend Programming and integrated it with a database and e-mail service as I learned Web Development.",
+                "category": "Web Development",
+                "tags": "HTML, CSS, JS, Bootstrap, PHP, AJAX, MySQL",
+                "image": "images/projects/the-perfect-cup.png",
+                "image2": "images/projects/the-perfect-cup.png",
+                "url": "http://testmycode.gq/theperfectcup/",
                 "modal": "#modal-01"
             },
             {
-                "title": "Project 8",
-                "description": "Frictional Coffee site.",
-                "category": "Illustrator",
-                "tags": "Branding, Web Design",
-                "image": "images/portfolio/skaterboy.jpg",
-                "image2": "images/portfolio/skaterboy@2x.jpg",
-                "url": "http://port1.com",
+                "title": "Android Controlled Robotic Vehicle",
+                "description": "Through Bluetooth communications, interface buttons, and voice commands, the Android app enables users to control the robot from a long distance.",
+                "category": "IoT",
+                "tags": "Arduino, Android, Embedded C",
+                "image": "images/projects/image-not-available.png",
+                "image2": "images/projects/image-not-available.png",
+                "url": "",
                 "modal": "#modal-01"
             }
         ]
@@ -208,28 +203,28 @@
     "testimonials": {
         "testimonials": [
             {
-                "text": "Some Random Text.",
                 "user": "Josh D",
                 "designation": "CEO, Facebook",
-                "image": "images/avatars/user-02.jpg"
+                "image": "images/avatars/user-02.jpg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae leo ut est finibus ullamcorper egestas ac sapien. Nulla at ipsum eu lectus semper convallis. Nunc mattis semper lacus, eget hendrerit mi. Sed vulputate, erat sed lacinia aliquet, nisl tortor lacinia ligula, vitae gravida justo libero at ligula."
             },
             {
-                "text": "Some Random Text.",
                 "user": "Edwin Diaz",
                 "designation": "CEO, Amazon",
-                "image": "images/avatars/user-03.jpg"
+                "image": "images/avatars/user-03.jpg",
+                "text": "Etiam lobortis, tellus a tincidunt placerat, leo tortor faucibus felis, ut venenatis purus odio a leo. Nam pharetra consequat diam quis imperdiet. In nisi tortor, feugiat vitae ornare a, facilisis a tellus. Donec erat tortor, maximus eu congue id, posuere ac velit. Cras laoreet quam enim, cursus mollis risus sagittis vitae."
             },
             {
-                "text": "Some Random Text.",
                 "user": "John Doe",
                 "designation": "CEO, Netflix",
-                "image": "images/avatars/user-04.jpg"
+                "image": "images/avatars/user-04.jpg",
+                "text": "Duis mollis ultricies eleifend. Integer massa nisi, luctus ac quam non, tincidunt volutpat mi. Donec egestas venenatis purus eu laoreet. Sed condimentum urna non velit tempor ullamcorper. Nam et nisi dignissim, vulputate nulla non, luctus urna. Maecenas aliquet et eros in eleifend."
             },
             {
-                "text": "Some Random Text.",
                 "user": "Steve Smith",
                 "designation": "CEO, Google",
-                "image": "images/avatars/user-05.jpg"
+                "image": "images/avatars/user-05.jpg",
+                "text": "Vestibulum pharetra eros sit amet metus varius, a volutpat metus volutpat. Proin ut semper erat. Etiam in massa libero. Mauris bibendum tortor at vulputate vehicula. Sed in bibendum quam."
             }
         ]
     }
