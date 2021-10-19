@@ -3,8 +3,8 @@
         "name": "Sumit Kajbaje",
         "occupation": "Web developer, programmer and designer.",
         "description": "I design and program websites and web applications of all types.",
-        "image": "images/avatars/user-01.jpg",
-        "bio": "I've gained some experience as a Web Developer and am constantly learning new things. I am currently studying to become a Full-Stack Web Developer. I enjoy DBD (Discord Bot Development) and drawing in addition to web development.",
+        "image": "images/avatars/profile.jpg",
+        "bio": "A hard-working and passionate student about to graduate with a B.E. in Computer Engineering from Pune University seeking new opportunities. 1.5+ years’ experience developing web applications & designing UI/UX. Interested in developing my skills as a full-stack developer.",
         "email": "sumitkajbaje@gmail.com",
         "phone": "+91 9766355560",
         "address": {
@@ -13,7 +13,7 @@
             "state": "Maharashtra",
             "zip": "411033"
         },
-        "website": "http://www.testmycode.ga",
+        "website": "https://www.testmycode.ga",
         "resumeDownload": "http://something.com",
         "social": [
             {
@@ -43,7 +43,7 @@
             },
             {
                 "name": "facebook",
-                "url": "http://facebook.com/sumit.k.9",
+                "url": "http://facebook.com/sumit.kajbaje",
                 "className": "fab fa-facebook-square"
             }
         ]
@@ -54,7 +54,7 @@
                 "school": "Siddhant College of Engineering",
                 "degree": "Bachelor Engineering in Computer Engineering",
                 "graduated": "April 2022",
-                "description": "Scored SGPA of 10.00 for Third Year and currently perusing in final year."
+                "description": "Scored CGPA of 10.00 for Third Year and currently perusing in final year."
             },
             {
                 "school": "Y. B. Patil Polytechnic",
@@ -68,13 +68,13 @@
                 "company": "Yamini Innovations",
                 "title": "Web Developer",
                 "years": "August 2021 - Present",
-                "description": "Developing website using WordPress and managing their Web hosting"
+                "description": "My job was to create a better website both feature and performance-wise as compared to their existing one. It was also my responsibility to maintain the site and keep it secured from any security issues • Used WordPress for boosting the development time. • Increased performance & functionality than older website • Made website SEO and User friendly."
             },
             {
                 "company": "Experteze, USA",
-                "title": "Full-Stack Web Developer",
+                "title": "Full-Stack Web Developer Intern",
                 "years": "April 2021 - June 2021",
-                "description": "Our Web Portal allows our team to collect and manage a patient's health data from one central location, thereby predicting the severity and likelihood of disease based on our findings."
+                "description": "Our Web Portal allows our team to collect and manage a patient's health data from one central location, thereby predicting the severity and likelihood of disease based on our findings. • Designing Database. • Developing Backend. • Deploying the site. • Managed a small team"
             }
         ],
         "skills": [
@@ -126,7 +126,7 @@
                 "image": "images/projects/iilegal.png",
                 "image2": "images/projects/iilegal.png",
                 "url": "https://iilegal.netlify.app/",
-                "modal": "#modal-01"
+                "modal": "#modal-10"
             },
             {
                 "title": "Rock Paper Scissors Lizard Spock",
@@ -136,7 +136,7 @@
                 "image": "images/projects/rock-paper-scissors-lizard-spock.png",
                 "image2": "images/projects/rock-paper-scissors-lizard-spock.png",
                 "url": "https://rock-paper-scissors-lizard-spock-project.netlify.app/",
-                "modal": "#modal-01"
+                "modal": "#modal-09"
             },
             {
                 "title": "Google Maps Clone",
@@ -146,7 +146,7 @@
                 "image": "images/projects/google-maps-clone.png",
                 "image2": "images/projects/google-maps-clone.png",
                 "url": "https://testmycode.ga/google-maps-clone/",
-                "modal": "#modal-01"
+                "modal": "#modal-08"
             },
             {
                 "title": "Speed Typing",
@@ -156,7 +156,7 @@
                 "image": "images/projects/speed-typing.png",
                 "image2": "images/projects/speed-typing.png",
                 "url": "https://testmycode.ga/speed-typing/",
-                "modal": "#modal-01"
+                "modal": "#modal-07"
             },
             {
                 "title": "MediCare",
@@ -166,7 +166,7 @@
                 "image": "images/projects/medicare.png",
                 "image2": "images/projects/medicare.png",
                 "url": "https://testmycode.ga/medicare.png",
-                "modal": "#modal-01"
+                "modal": "#modal-06"
             },
             {
                 "title": "Animato - An imaginary Food site.",
@@ -176,7 +176,7 @@
                 "image": "images/projects/animato.png",
                 "image2": "images/projects/animato.png",
                 "url": "https://testmycode.ga/Animato/",
-                "modal": "#modal-01"
+                "modal": "#modal-05"
             },
             {
                 "title": "Weather App",
@@ -186,7 +186,7 @@
                 "image": "images/projects/weather-app.png",
                 "image2": "images/projects/weather-app.png",
                 "url": "https://testmycode.ga/weather-app/",
-                "modal": "#modal-01"
+                "modal": "#modal-04"
             },
             {
                 "title": "Tribute Page",
@@ -196,7 +196,7 @@
                 "image": "images/projects/tribute-page.png",
                 "image2": "images/projects/tribute-page.png",
                 "url": "https://testmycode.ga/tribute-page/",
-                "modal": "#modal-01"
+                "modal": "#modal-03"
             },
             {
                 "title": "The Perfect Cup",
@@ -206,7 +206,7 @@
                 "image": "images/projects/the-perfect-cup.png",
                 "image2": "images/projects/the-perfect-cup.png",
                 "url": "http://testmycode.gq/theperfectcup/",
-                "modal": "#modal-01"
+                "modal": "#modal-02"
             },
             {
                 "title": "Android Controlled Robotic Vehicle",

@@ -53,7 +53,7 @@ export default class Contact extends Component {
 
                             <div className="column large-12">
                                 <a
-                                    href="mailto:sayhello@ceevee.com"
+                                    href={`mailto:${email}`}
                                     className="mailtoui btn btn--primary h-full-width"
                                 >
                                     Let's Talk
