@@ -7,7 +7,7 @@ import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 import Portfolio from "./Components/Portfolio";
 import Resume from "./Components/Resume";
-import Testimonial from "./Components/Testimonial";
+// import Testimonial from "./Components/Testimonial";
 
 class App extends Component {
     constructor(props) {
