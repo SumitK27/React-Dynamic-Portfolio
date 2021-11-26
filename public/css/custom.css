@@ -3,3 +3,13 @@
     box-sizing: border-box;
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
+
+.skill-bars-fat {
+    margin-top: 0;
+}
+
+.skill-bars-fat > li {
+    width: 220px;
+    height: 25px;
+    margin: 25px 10px;
+}
