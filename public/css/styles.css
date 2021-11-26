@@ -4103,6 +4103,7 @@ button.btn--pill {
     background-color: white;
     position: relative;
     overflow: hidden;
+    height: 100%;
 }
 
 .folio-item__thumb::before {
@@ -4155,6 +4156,7 @@ button.btn--pill {
     margin: 0;
     -webkit-transition: all, 0.5s;
     transition: all, 0.5s;
+    height: 100%;
 }
 
 /* on hover

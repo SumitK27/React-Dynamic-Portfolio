@@ -22,19 +22,10 @@
                 "className": "fab fa-linkedin"
             },
             {
-                "name": "discord",
-                "url": "https://discord.com/#4939",
-                "className": "fab fa-discord"
-            },
-            {
                 "name": "twitter",
                 "url": "http://twitter.com/SumitKajbaje",
+                "follow": "http://twitter.com/intent/follow?screen_name=sumitkajbaje",
                 "className": "fab fa-twitter"
-            },
-            {
-                "name": "telegram",
-                "url": "http://t.me/SumitK_27",
-                "className": "fab fa-telegram"
             },
             {
                 "name": "github",
@@ -42,9 +33,9 @@
                 "className": "fab fa-github"
             },
             {
-                "name": "facebook",
-                "url": "http://facebook.com/sumit.kajbaje",
-                "className": "fab fa-facebook-square"
+                "name": "discord",
+                "url": "https://discord.com/#4939",
+                "className": "fab fa-discord"
             }
         ]
     },
@@ -53,7 +44,7 @@
             {
                 "school": "Siddhant College of Engineering",
                 "degree": "Bachelor Engineering in Computer Engineering",
-                "graduated": "April 2022",
+                "graduated": "April 2022 (Anticipated)",
                 "description": "Scored CGPA of 10.00 for Third Year and currently perusing in final year."
             },
             {
@@ -61,6 +52,12 @@
                 "degree": "Diploma in Computer Engineering",
                 "graduated": "April 2019",
                 "description": "Obtained 3rd rank at my final year."
+            },
+            {
+                "school": "Jog Education Trust",
+                "degree": "SSC (10th Std.)",
+                "graduated": "April 2016",
+                "description": ""
             }
         ],
         "work": [

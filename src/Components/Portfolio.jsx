@@ -50,9 +50,7 @@ export default class Portfolio extends Component {
                     </div>
                 </div>
 
-                <div className="row collapse block-large-1-4 block-medium-1-3 block-tab-1-2 block-500-stack folio-list">
-                    {projects}
-                </div>
+                <div className="row collapse folio-list">{projects}</div>
 
                 {/* Modal */}
                 {modals}
