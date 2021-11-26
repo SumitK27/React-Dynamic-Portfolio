@@ -6,6 +6,8 @@
 
 .skill-bars-fat {
     margin-top: 0;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .skill-bars-fat > li {
