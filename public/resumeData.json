@@ -88,6 +88,10 @@
                 "level": "75%"
             },
             {
+                "name": "JSON",
+                "level": "95%"
+            },
+            {
                 "name": "jQuery",
                 "level": "90%"
             },
