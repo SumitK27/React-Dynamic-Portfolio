@@ -4,7 +4,7 @@
         "occupation": "Web developer, programmer and designer.",
         "description": "I design and program websites and web applications of all types.",
         "image": "images/avatars/profile.jpg",
-        "bio": "A hard-working and passionate student about to graduate with a B.E. in Computer Engineering from Pune University seeking new opportunities. 1.5+ years’ experience developing web applications & designing UI/UX. Interested in developing my skills as a full-stack developer.",
+        "bio": "Self-motivated and hardworking graduate seeking an opportunity to work in a challenging environment to prove my skills and utilize my knowledge for the growth of the organization while at the same time pursuing my individual growth.",
         "email": "sumitkajbaje@gmail.com",
         "phone": "+91 9766355560",
         "address": {
@@ -14,7 +14,7 @@
             "zip": "411033"
         },
         "website": "https://www.testmycode.ga",
-        "resumeDownload": "http://something.com",
+        "resumeDownload": "https://www.workruit.com/#sumitkajbaje",
         "social": [
             {
                 "name": "linkedin",
@@ -100,6 +100,22 @@
                 "level": "80%"
             },
             {
+                "name": "Git",
+                "level": "60%"
+            },
+            {
+                "name": "Python",
+                "level": "66%"
+            },
+            {
+                "name": "Java",
+                "level": "50%"
+            },
+            {
+                "name": "Bash",
+                "level": "35%"
+            },
+            {
                 "name": "MySQL",
                 "level": "75%"
             },
@@ -108,8 +124,12 @@
                 "level": "60%"
             },
             {
-                "name": "React",
-                "level": "40%"
+                "name": "React.js",
+                "level": "30%"
+            },
+            {
+                "name": "Node.js",
+                "level": "25%"
             }
         ]
     },
