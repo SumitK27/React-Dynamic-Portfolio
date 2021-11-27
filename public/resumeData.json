@@ -140,6 +140,16 @@
     "portfolio": {
         "projects": [
             {
+                "title": "Advice App",
+                "description": "A Responsive Random Advice generator build with React.",
+                "category": "Web Development",
+                "tags": "HTML, CSS, React",
+                "image": "images/projects/advice-app.png",
+                "image2": "images/projects/advice-app.png",
+                "url": "https://random-advice-react-app.netlify.app/",
+                "modal": "#modal-10"
+            },
+            {
                 "title": "iiLegal",
                 "description": "With the easy-to-use APIs and plugins, this project will allow you to find your location, change the map style to Satellite, Streets & Navigation or Outdoors. Along with this, we will be able to search for any location (Area) and receive directions from your source to your destination point with the option to choose from Traffic, Driving, Walking, or Cycling.",
                 "category": "Web Development",
