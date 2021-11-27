@@ -1,0 +1,191 @@
+{
+    "main": {
+        "name": "Your Name",
+        "occupation": "Your Role",
+        "description": "Describe your Role",
+        "image": "images/avatars/user-02.jpg",
+        "bio": "Your Short Bio",
+        "email": "your@email.com",
+        "phone": "+1 0123456789",
+        "address": {
+            "street": "Your Street",
+            "city": "Your City",
+            "state": "Your State",
+            "zip": "Your Zip Code"
+        },
+        "website": "Your Website",
+        "resumeDownload": "Your Resume Link",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "http://linkedin.com/in/YourName",
+                "className": "fab fa-linkedin"
+            },
+            {
+                "name": "twitter",
+                "url": "http://twitter.com/YourName",
+                "follow": "http://twitter.com/intent/follow?screen_name=YourName",
+                "className": "fab fa-twitter"
+            },
+            {
+                "name": "github",
+                "url": "http://github.com/YourName",
+                "className": "fab fa-github"
+            },
+            {
+                "name": "discord",
+                "url": "https://discord.com/YourID",
+                "className": "fab fa-discord"
+            }
+        ]
+    },
+    "resume": {
+        "education": [
+            {
+                "school": "Your School Name",
+                "degree": "Your Degree",
+                "graduated": "Graduation Date",
+                "description": "Experience"
+            },
+            {
+                "school": "Your School Name 2",
+                "degree": "Your Degree",
+                "graduated": "Graduation Date",
+                "description": "Experience"
+            }
+        ],
+        "work": [
+            {
+                "company": "Company Name",
+                "title": "Your Job Role",
+                "years": "From - Present",
+                "description": "Describe your Job"
+            },
+            {
+                "company": "Company Name 2",
+                "title": "Your Job Role",
+                "years": "From - To",
+                "description": "Describe your Job"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Skill 1",
+                "level": "90%"
+            },
+            {
+                "name": "Skill 2",
+                "level": "70%"
+            },
+            {
+                "name": "Skill 3",
+                "level": "40%"
+            },
+            {
+                "name": "Skill 4",
+                "level": "25%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "iiLegal",
+                "description": "",
+                "category": "Web Development",
+                "tags": "HTML, CSS, JavaScript, React",
+                "image": "images/projects/iilegal.png",
+                "image2": "images/projects/iilegal.png",
+                "url": "https://iilegal.netlify.app/",
+                "modal": "#modal-10"
+            },
+            {
+                "title": "Google Maps Clone",
+                "description": "",
+                "tags": "API, HTML, CSS, JavaScript",
+                "image": "images/projects/google-maps-clone.png",
+                "image2": "images/projects/google-maps-clone.png",
+                "url": "https://testmycode.ga/google-maps-clone/",
+                "modal": "#modal-08"
+            },
+            {
+                "title": "MediCare",
+                "description": "",
+                "category": "Web Development",
+                "tags": "HTML, CSS, JS, Bootstrap, PHP, AJAX, MySQL",
+                "image": "images/projects/medicare.png",
+                "image2": "images/projects/medicare.png",
+                "url": "https://testmycode.ga/medicare.png",
+                "modal": "#modal-06"
+            },
+            {
+                "title": "Dynamic Portfolio",
+                "description": "",
+                "category": "Web Development",
+                "tags": "HTML, CSS, JS, React",
+                "image": "images/projects/dynamic-portfolio.png",
+                "image2": "images/projects/dynamic-portfolio.png",
+                "url": "https://testmycode.ga/",
+                "modal": "#modal-06"
+            },
+            {
+                "title": "Animato - An imaginary Food site.",
+                "description": "",
+                "category": "Front-end Web Development",
+                "tags": "CSS",
+                "image": "images/projects/animato.png",
+                "image2": "images/projects/animato.png",
+                "url": "https://testmycode.ga/Animato/",
+                "modal": "#modal-05"
+            },
+            {
+                "title": "Tribute Page",
+                "description": "",
+                "category": "Web Design",
+                "tags": "HTML, CSS",
+                "image": "images/projects/tribute-page.png",
+                "image2": "images/projects/tribute-page.png",
+                "url": "https://testmycode.ga/tribute-page/",
+                "modal": "#modal-03"
+            },
+            {
+                "title": "The Perfect Cup",
+                "description": "",
+                "category": "Web Development",
+                "tags": "HTML, CSS, JS, Bootstrap, PHP, AJAX, MySQL",
+                "image": "images/projects/the-perfect-cup.png",
+                "image2": "images/projects/the-perfect-cup.png",
+                "url": "http://testmycode.gq/theperfectcup/",
+                "modal": "#modal-02"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "user": "Name",
+                "designation": "Position",
+                "image": "images/avatars/user-02.jpg",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vitae leo ut est finibus ullamcorper egestas ac sapien. Nulla at ipsum eu lectus semper convallis. Nunc mattis semper lacus, eget hendrerit mi. Sed vulputate, erat sed lacinia aliquet, nisl tortor lacinia ligula, vitae gravida justo libero at ligula."
+            },
+            {
+                "user": "Edwin Diaz",
+                "designation": "CEO, Amazon",
+                "image": "images/avatars/user-03.jpg",
+                "text": "Etiam lobortis, tellus a tincidunt placerat, leo tortor faucibus felis, ut venenatis purus odio a leo. Nam pharetra consequat diam quis imperdiet. In nisi tortor, feugiat vitae ornare a, facilisis a tellus. Donec erat tortor, maximus eu congue id, posuere ac velit. Cras laoreet quam enim, cursus mollis risus sagittis vitae."
+            },
+            {
+                "user": "John Doe",
+                "designation": "CEO, Netflix",
+                "image": "images/avatars/user-04.jpg",
+                "text": "Duis mollis ultricies eleifend. Integer massa nisi, luctus ac quam non, tincidunt volutpat mi. Donec egestas venenatis purus eu laoreet. Sed condimentum urna non velit tempor ullamcorper. Nam et nisi dignissim, vulputate nulla non, luctus urna. Maecenas aliquet et eros in eleifend."
+            },
+            {
+                "user": "Steve Smith",
+                "designation": "CEO, Google",
+                "image": "images/avatars/user-05.jpg",
+                "text": "Vestibulum pharetra eros sit amet metus varius, a volutpat metus volutpat. Proin ut semper erat. Etiam in massa libero. Mauris bibendum tortor at vulputate vehicula. Sed in bibendum quam."
+            }
+        ]
+    }
+}
