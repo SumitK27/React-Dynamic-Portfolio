@@ -190,6 +190,16 @@
                 "modal": "#modal-06"
             },
             {
+                "title": "Dynamic Portfolio",
+                "description": "The Web Portal I developed allows users to collect and manage a patient's data from one central location in order to predict the severity and likelihood of diseases based on our findings.",
+                "category": "Web Development",
+                "tags": "HTML, CSS, JS, React",
+                "image": "images/projects/dynamic-portfolio.png",
+                "image2": "images/projects/dynamic-portfolio.png",
+                "url": "https://testmycode.ga/",
+                "modal": "#modal-06"
+            },
+            {
                 "title": "Animato - An imaginary Food site.",
                 "description": "For responsiveness, it uses pure HTML and CSS as layouts and stylings without relying on external CSS libraries.",
                 "category": "Front-end Web Development",
