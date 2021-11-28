@@ -140,6 +140,16 @@
     "portfolio": {
         "projects": [
             {
+                "title": "React Weather App",
+                "description": "You can check the current weather in your area and other locations around the world using this web app.",
+                "category": "Web Development",
+                "tags": "HTML, CSS, JavaScript, React, Fetch API",
+                "image": "images/projects/react-weather-app.png",
+                "image2": "images/projects/react-weather-app.png",
+                "url": "https://react-owm-weather-app.netlify.app/",
+                "modal": "#modal-10"
+            },
+            {
                 "title": "Advice App",
                 "description": "A Responsive Random Advice generator build with React.",
                 "category": "Web Development",
@@ -256,7 +266,7 @@
                 "tags": "Arduino, Android, Embedded C",
                 "image": "images/projects/image-not-available.png",
                 "image2": "images/projects/image-not-available.png",
-                "url": "",
+                "url": "http://testmycode.ga/",
                 "modal": "#modal-01"
             }
         ]

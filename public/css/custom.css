@@ -10,6 +10,11 @@
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
+.folio-item img {
+    margin: 0 auto;
+    max-height: 350px;
+}
+
 .skill-bars-fat {
     margin-top: 0;
     display: flex;

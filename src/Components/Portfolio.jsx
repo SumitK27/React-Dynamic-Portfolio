@@ -8,7 +8,7 @@ export default class Portfolio extends Component {
                     <div className="column folio-item" key={project.title}>
                         <a href={project.url} className="folio-item__thumb">
                             <img
-                                src={project.url}
+                                src={project.image}
                                 srcSet={`${project.image} 1x, 
                                      ${project.image2} 2x`}
                                 alt=""
